@@ -1,7 +1,8 @@
 import React from 'react';
+import './styles.css'
 
 function EmptyTodos() {
-  return <p>¡Crea tu primer TODO!</p>;
+  return <p className='todo'>Write a task! </p>;
 }
 
 export { EmptyTodos };
