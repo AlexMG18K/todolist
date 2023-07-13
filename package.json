@@ -37,8 +37,9 @@
       "last 1 safari version"
     ]
   },
+
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "https://platzi.github.io/curso-intro-react"
+  "homepage": "https://AlexMG18K.github.io/todolist"
 }
